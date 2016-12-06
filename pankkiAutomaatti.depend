@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1477319755 source:c:\users\joonas\documents\ohjelmat\c-kieli\pankkiautomaatti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+

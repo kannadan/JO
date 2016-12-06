@@ -1,0 +1,20 @@
+Tue Dec  6 15:44:03 2016
+
+	Maksettu: 20.000000
+	
+
+Tue Dec  6 15:57:21 2016
+
+	Maksettu: 20.000000
+	
+
+Tue Dec  6 16:00:52 2016
+
+	Maksettu: 30.000000
+	
+
+Tue Dec  6 16:04:02 2016
+
+	Maksettu: 30.000000
+	Makelle
+
